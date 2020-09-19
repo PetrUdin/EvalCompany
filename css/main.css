@@ -20,7 +20,7 @@ html {
 /*===main section===*/ 
 
 .main {
-    background: url(/img/fon_dtp.jpg) center no-repeat;
+    background: url(../img/fon_dtp.jpg) center no-repeat;
     padding-bottom: 150px;
 }
 .main__container {
@@ -133,7 +133,7 @@ html {
     line-height: 2;
 }
 .row-3__favor {
-    background: url(/img/fr.png);
+    background: url(../img/fr.png);
     width: 345px;
     height: 367px;
     background-repeat: no-repeat;
@@ -178,19 +178,19 @@ html {
     font-size: 14px;
 }
 .item-1 {
-    list-style-image: url(/img/summa.png);
+    list-style-image: url(../img/summa.png);
 }
 .item-2 {
-    list-style-image: url(/img/urist.png);
+    list-style-image: url(../img/urist.png);
 }
 .item-3 {
-    list-style-image: url(/img/expert.png);
+    list-style-image: url(../img/expert.png);
 }
 .item-4 {
-    list-style-image: url(/img/develery.png);
+    list-style-image: url(../img/develery.png);
 }
 .item-5 {
-    list-style-image: url(/img/pretenziya.png);
+    list-style-image: url(../img/pretenziya.png);
 }
 
 .main__row-4 {
@@ -411,7 +411,7 @@ html {
 /*===stepexpert section===*/
 
 .stepexpert {
-    background: url(/img/exp.png) center no-repeat;
+    background: url(../img/exp.png) center no-repeat;
 }
 .stepexpert__container {
     display: flex;
@@ -576,7 +576,7 @@ html {
         max-width: 970px;
 }
     .main {
-        background: url(/img/fon_dtp.jpg) no-repeat;
+        background: url(../img/fon_dtp.jpg) no-repeat;
 }
     .main {
      padding-bottom: 0;
