@@ -2,8 +2,11 @@
 ## Сайт для компании независимой экспертизы автомобиля
 ### Цель проекта
 ***Сайт свёрстан в образовательных целях***
-### Screenshots:
 
+### ссылка на GitHub Pages:<https://petrudin.github.io/EvalCompany/>
+
+
+### Screenshots:
 
 ![Alt text](/screenshots/1.png)
 
